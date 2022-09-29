@@ -1,0 +1,15 @@
+{
+  "name": "project-v",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Indes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^6.4.1"
+  }
+}
