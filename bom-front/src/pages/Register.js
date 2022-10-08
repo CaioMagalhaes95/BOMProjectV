@@ -12,7 +12,7 @@ export default function Register() {
     // const [startDate, setStartDate] = useState(new Date());
 
 const OnHandleClickRegister = (values) => {
-  Axios.post("https://localhost:3000/material", {
+  Axios.post("http://localhost:3000/material", {
     nome: values.nome,
     descricao: values.descricao,
     data: values.data,
